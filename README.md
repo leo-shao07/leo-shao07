@@ -3,13 +3,12 @@
 
 ### 🚀 About Me
 :computer: ex-**AICS(ASUS Intelligent Cloud Services)** Software Engineer :round_pushpin:Singapore, Taipei<br> 
-:computer: ex-**Trend Micro** Software Engineer Intern :round_pushpin:Taipei<br> 
-:computer: ex-**Microsoft** Research & Development Intern :round_pushpin:Taipei<br> 
+:computer: ex-**Trend Micro** Software Engineer :round_pushpin:Taipei<br> 
+:computer: ex-**Microsoft** Software Engineering Intern :round_pushpin:Taipei<br> 
 
 ### :cactus: Current Interests
 - Distributed System
 - Microservice Architecture
-- MLOps
 - more coming soon...
 
 ### Languages & Tools
@@ -21,7 +20,6 @@
 <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/-CSS-9400D3?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
