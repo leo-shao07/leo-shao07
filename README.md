@@ -2,6 +2,7 @@
 
 
 ### 🚀 About Me
+🎓 Software Engineering @ CMU<br>
 :computer: ex-**AICS(ASUS Intelligent Cloud Services)** Software Engineer :round_pushpin:Singapore, Taipei<br> 
 :computer: ex-**Trend Micro** Software Engineer :round_pushpin:Taipei<br> 
 :computer: ex-**Microsoft** Software Engineering Intern :round_pushpin:Taipei<br> 
